@@ -9,6 +9,7 @@ int main(){
     cin>>p;
     cin>>r;
     cin>>t;
+    
 
     int si = (p*r*t)/100;
     cout<<"si is :"<<si<<endl;
