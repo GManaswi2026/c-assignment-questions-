@@ -15,6 +15,8 @@ int main(){
     cin>>eraser;
 
     float item = pencil+pen+eraser;
+
+    
     cout<<"total cost of item is :"<<item<<endl;
     return 0;
 
